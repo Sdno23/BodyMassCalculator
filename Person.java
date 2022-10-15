@@ -1,3 +1,14 @@
+/*
+ * @author 3156908
+ *
+ * @version 1.0 06/07/2020
+ *
+ * Title: Calculating Person's BMI
+ *
+ * Semester: Summer 2020
+ *
+ * Lecturer's Name: C. Charters
+ */
 package main;
 import java.text.DecimalFormat;
 
