@@ -1,5 +1,5 @@
 /*
- * @author 3156908
+ * @author XXXXX08
  *
  * @version 1.0 06/07/2020
  *
@@ -9,12 +9,12 @@
  *
  * Lecturer's Name: C. Charters
  */
-package main;
+package bodymasscalculator;
 import java.text.DecimalFormat;
 
 /**
  *
- * @author 3156908
+ * @author XXXXX08
  */
 public class Person {
     
